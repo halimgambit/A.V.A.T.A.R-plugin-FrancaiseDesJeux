@@ -1,5 +1,5 @@
 # FrancaiseDesJeux
-Française des jeux (FDJ) · les jeux de tirage ; Loto, Euromillions,
+Française des jeux (FDJ) · les jeux de tirage : Loto, Euromillions.
 
 This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.github.io/docs) framework.
 
