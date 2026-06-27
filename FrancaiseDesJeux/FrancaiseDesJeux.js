@@ -30,7 +30,7 @@ export async function action(data, callback) {
   callback();
 }
 
-async function lotoEuromillion(fdj, client, L) {
+const lotoEuromillion = async (fdj, client, L) => {
 
   try {
 
