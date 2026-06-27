@@ -1,0 +1,7 @@
+  {
+    "speech": {
+    "loto": "$$. Les numéros gagnants sont les : $$. et le Numéro chance est le: $$",
+    "euromillion": "$$. Les numéros gagnants sont les : $$. Les étoiles sont : $$",
+    "error": "Je n'arrive pas à accéder au site FDJ."
+  }
+}
