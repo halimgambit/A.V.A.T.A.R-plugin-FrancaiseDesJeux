@@ -6,7 +6,7 @@ This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.gi
 🎯 Usage
 Commandes :
 
-quel sont les résultats du loto
+quel sont les résultats du loto, 
 quel sont les résultats de l'euromillion
 
 # Multi-room
