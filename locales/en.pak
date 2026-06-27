@@ -1,7 +1,0 @@
-{
-    speech: {
-    "loto": "$$. The winning numbers are: $$. and the lucky number is: $$",
-    "euromillion": "$$. The winning numbers are: $$. The stars are: $$",
-    "error": "I can’t access the FDJ site."
-  }
-}
