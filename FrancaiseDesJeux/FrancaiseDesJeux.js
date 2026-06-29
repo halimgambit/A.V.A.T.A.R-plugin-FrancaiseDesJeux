@@ -24,7 +24,7 @@ export async function action(data, callback) {
 
   } catch (err) {
     if (data.client) Avatar.Speech.end(data.client);
-    if (err.message) console.error(err.message);
+    if (err.message) error(err.message);
   }
 
   callback();
