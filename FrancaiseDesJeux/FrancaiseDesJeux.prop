@@ -3,10 +3,10 @@
 		"FrancaiseDesJeux": {
 			"version": "1.0",
 			"name": "fdj",
-			"rules": {
-				"loto": ["lottery result","the lottery result","lottery * result","result * lottery"],
-				"euromillion": ["the Euromillions results","euromillions","euromillions result","the results of the euromillion"]
-			}
+			"rules":{
+    "loto":["lottery","the lottery","lotto"],
+    "euromillion":["euromillions","euromillion"]
+    },
 		}
 	}
 }
